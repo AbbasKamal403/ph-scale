@@ -1,0 +1,73 @@
+body{
+  background-color: gray;
+  color: white;
+  padding: 25px;
+  text-align: left;
+  
+}
+h1{
+  background-color: rgb(72, 12, 125);
+  color: white;
+  border-radius: 15px;
+  border-style: double;
+  border-color: black;
+  text-align: center;
+}
+p{
+  padding: 5px;
+  margin: 0;
+  font-size: 20px;
+}
+p:hover{
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  color: black;
+  transform: translatex(-10px); 
+}
+p.one{
+  background-color: red;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+}
+p.two{
+  background-color: pink;
+}
+p.three{
+  background-color: orangered;
+}
+p.four{
+  background-color: beige;
+}
+p.five{
+  background-color: yellow;
+}
+p.six{
+  background-color: limegreen;
+}
+p.seven{
+  background-color: green;
+}
+p.eight{
+  background-color: darkgreen;
+}
+p.nine{
+  background-color: turquoise;
+}
+p.ten{
+  background-color: #ADD8E6;
+}
+p.eleven{
+  background-color: blue;
+}
+p.twelve{
+  background-color: darkblue;
+}
+p.thirteen{
+  background-color: violet;
+}
+p.fourteen{
+  background-color: purple;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
